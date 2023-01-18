@@ -74,7 +74,7 @@ body {
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        background-color: #5f7a61;
+        background-color: #bd10db;
     }
 
     .song-slider {
@@ -138,7 +138,7 @@ body {
         width: 10px;
         height: 30px;
         border-radius: 2px;
-        background: #5f7a61;
+        background: #1c1b1c;
         transition: .5s;
         clip-path:polygon( 0 0, 100% 0, 100% 100%, 0% 100%);
      }
@@ -171,11 +171,11 @@ body {
 
         }
         50%{
-            box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.1);
+            box-shadow: 0 0 0 5px rgb(9, 9, 9);
 
         }
         100%{
-            box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.4);
+            box-shadow: 0 0 0 5px rgba(20, 20, 20, 0.997);
 
         }
       }
@@ -183,7 +183,7 @@ body {
       .btn {
         width: 40px;
         height: 40px;
-        background: #d5eebb;
+        background: #dd07ec;
         border-radius: 50%;
         display: flex;
         justify-content: center;
