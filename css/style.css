@@ -21,7 +21,7 @@ body {
     height: 550px;
     border-radius: 20px;
     background-color: rgba(255,255,255, 0.8);
-    box-shadow: 0 40px 100px rgba(255, 255, 255, 0.1);
+    box-shadow: 0 40px 100px rgba(211, 17, 166, 0.413);
     padding: 30px;
     overflow: hidden;
     color: #e631d7;
@@ -52,7 +52,7 @@ body {
         width: 180px;
         height: 180px;
         border-radius: 50%;
-        background-image: url('images/cover\ 1.png');
+        background-image: url('images/cover \ 1.png');
         background-size: cover;
         box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.8);
         animation: rotate 20s linear infinite;
